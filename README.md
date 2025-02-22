@@ -66,6 +66,17 @@ Cryptography (AES-CBC – Encrypts messages securely.
 SHA-256 Hashing – Generates a strong key from a password.
 NumPy – Efficient array handling for images.
 Future Enhancements
+Technologies Used
+Python – Core programming language.
+OpenCV (cv2) – Image processing & pixel manipulation.
+Cryptography (AES-CBC – Encrypts messages securely.
+SHA-256 Hashing – Generates a strong key from a password.
+NumPy – Efficient array handling for images.
+Future Enhancements
+Support for JPEG & BMP formats
+GUI-based tool for ease of use
+AI-based steganalysis resistance
+Mobile app integration
 Support for JPEG & BMP formats
 GUI-based tool for ease of use
 AI-based steganalysis resistance
